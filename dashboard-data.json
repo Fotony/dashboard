@@ -1,0 +1,120 @@
+{
+  "timestamp": "2026-04-04T01:04:34.516131+03:00",
+  "system": {
+    "vpn": {
+      "status": "connected",
+      "name": "AdGuard VPN"
+    },
+    "gateway": {
+      "status": "healthy",
+      "uptime_hours": 47.5,
+      "http_code": 200
+    },
+    "cron": {
+      "active": 22,
+      "errors": 0
+    },
+    "database": {
+      "status": "connected",
+      "size_gb": 2.4
+    }
+  },
+  "crypto": {
+    "bitcoin": {
+      "symbol": "BTC",
+      "price_usd": 66932,
+      "change_24h": -0.040934999861853845,
+      "high_24h": 0,
+      "low_24h": 0
+    },
+    "ethereum": {
+      "symbol": "ETH",
+      "price_usd": 2057.68,
+      "change_24h": -0.23925172149330712,
+      "high_24h": 0,
+      "low_24h": 0
+    },
+    "solana": {
+      "symbol": "SOL",
+      "price_usd": 80.44,
+      "change_24h": 1.9572334918465464,
+      "high_24h": 0,
+      "low_24h": 0
+    }
+  },
+  "defi": {
+    "aave": {
+      "platform": "Aave V3",
+      "network": "Arbitrum",
+      "health_factor": 1.85,
+      "collateral_usd": 50000,
+      "borrowed_usd": 25000,
+      "ltv": 50.0,
+      "assets": "BTC + ETH",
+      "borrow_asset": "USDC"
+    },
+    "jupiter": {
+      "platform": "Jupiter Lend",
+      "network": "Solana",
+      "health_factor": 2.1,
+      "collateral_usd": 30000,
+      "borrowed_usd": 12000,
+      "ltv": 40.0,
+      "assets": "JLP",
+      "borrow_asset": "USDC"
+    }
+  },
+  "geopolitics": {
+    "gold": {
+      "price_usd": 4647.58,
+      "change_pct": -0.43734346849857014
+    },
+    "oil_brent": {
+      "price_usd": 75.32,
+      "change_pct": -0.5
+    },
+    "usd_rub": 80.260774,
+    "m2_supply": {
+      "value_trillions": 21.5,
+      "yoy_pct": 5.2
+    },
+    "fear_greed": {
+      "value": 9,
+      "label": "Extreme Fear"
+    },
+    "iran_alert": {
+      "level": "Elevated",
+      "score": 45,
+      "max_score": 100
+    }
+  },
+  "fomc": {
+    "next_meeting": "2026-04-29",
+    "days_until": 25,
+    "countdown": "25d 22:55:25",
+    "upcoming": [
+      "2026-04-29",
+      "2026-05-06",
+      "2026-06-17",
+      "2026-07-29"
+    ]
+  },
+  "gnk": {
+    "price_usd": 0.73,
+    "change_24h": -2.1,
+    "market_cap_m": 73,
+    "volume_24h_m": 1.2,
+    "target_entry": 0.6,
+    "progress_to_target_pct": 82.2
+  },
+  "flint_insights": {
+    "title": "Flint Research Analysis",
+    "last_updated": "2026-04-04T01:04:34.515105+03:00",
+    "summary": "\u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u043e\u0442 \u0430\u0433\u0435\u043d\u0442\u0430 Flint...",
+    "key_points": [
+      "\u041d\u0435\u0442 \u0434\u0430\u043d\u043d\u044b\u0445"
+    ],
+    "risk_level": "Unknown",
+    "confidence": 0
+  }
+}
